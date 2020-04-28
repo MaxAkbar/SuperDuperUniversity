@@ -1,0 +1,35 @@
+PersonID|LastName|FirstName|HireDate|EnrollmentDate|Discriminator
+1|Abercrombie|Kim|3/11/1995 12:00:00 AM||Instructor
+2|Barzdukas|Gytis||9/1/2005 12:00:00 AM|Student
+3|Justice|Peggy||9/1/2001 12:00:00 AM|Student
+4|Fakhouri|Fadi|8/6/2002 12:00:00 AM||Instructor
+5|Harui|Roger|7/1/1998 12:00:00 AM||Instructor
+6|Li|Yan||9/1/2002 12:00:00 AM|Student
+7|Norman|Laura||9/1/2003 12:00:00 AM|Student
+8|Olivotto|Nino||9/1/2005 12:00:00 AM|Student
+9|Tang|Wayne||9/1/2005 12:00:00 AM|Student
+10|Alonso|Meredith||9/1/2002 12:00:00 AM|Student
+11|Lopez|Sophia||9/1/2004 12:00:00 AM|Student
+12|Browning|Meredith||9/1/2000 12:00:00 AM|Student
+13|Anand|Arturo||9/1/2003 12:00:00 AM|Student
+14|Walker|Alexandra||9/1/2000 12:00:00 AM|Student
+15|Powell|Carson||9/1/2004 12:00:00 AM|Student
+16|Jai|Damien||9/1/2001 12:00:00 AM|Student
+17|Carlson|Robyn||9/1/2005 12:00:00 AM|Student
+18|Zheng|Roger|2/12/2004 12:00:00 AM||Instructor
+19|Bryant|Carson||9/1/2001 12:00:00 AM|Student
+20|Suarez|Robyn||9/1/2004 12:00:00 AM|Student
+21|Holt|Roger||9/1/2004 12:00:00 AM|Student
+22|Alexander|Carson||9/1/2005 12:00:00 AM|Student
+23|Morgan|Isaiah||9/1/2001 12:00:00 AM|Student
+24|Martin|Randall||9/1/2005 12:00:00 AM|Student
+25|Kapoor|Candace|1/15/2001 12:00:00 AM||Instructor
+26|Rogers|Cody||9/1/2002 12:00:00 AM|Student
+27|Serrano|Stacy|6/1/1999 12:00:00 AM||Instructor
+28|White|Anthony||9/1/2001 12:00:00 AM|Student
+29|Griffin|Rachel||9/1/2004 12:00:00 AM|Student
+30|Shan|Alicia||9/1/2003 12:00:00 AM|Student
+31|Stewart|Jasmine|10/12/1997 12:00:00 AM||Instructor
+32|Xu|Kristen|7/23/2001 12:00:00 AM||Instructor
+33|Gao|Erica||1/30/2003 12:00:00 AM|Student
+34|Van Houten|Roger|12/7/2000 12:00:00 AM||Instructor
